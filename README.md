@@ -20,3 +20,32 @@ The date range for each celebrity node and the important event is presented as f
 - Date Range: Jan 22nd - Feb 2nd, 2016
 - Important Real Life Event: Challenger space shuttle was launched on 28th January, 1986.
 
+##### jack (account of twitter CEO)
+- Date Range: Jan 20th - Jan 30th, 2016
+- Important Event: Twitter had a mass exodus of employees around Jan 25th
+
+##### whoismrrobot (TV Series Mr Robot)
+- Dates: Jan 1st - Jan 20th, 2016
+- Important Event: Won golden globe award for best TV series around 10th January
+
+##### ImRaina (account of Indian cricketer)
+- Dates: Jan 15th - 4th Feb, 2016
+- Important Event: Indian cricket team won a cricket series in Australia around Jan 26th
+
+##### rihanna
+- Dates: Dec 20th, 2015 - 4th Feb, 2016
+- Important Event: Released a new album called "anti" around Jan 25th
+
+##### MartinShkreli
+- Dates: Jan 20th - 9th February, 2016
+- Important Event: Court hearing on 4th February
+
+##### ohdaughter
+- Dates: Jan 1st - Feb 9th, 2016
+- Important Event: New album released on 15th of January
+
+##### isro (Indian space research organization)
+- Dates: Jan 1st - Feb 9th, 2016
+- Important Dates: Jan 20th, successfully launched a satellite into orbit
+
+
