@@ -1,6 +1,23 @@
 # twitter-influence-propagation-dataset
 Dataset used in the twitter influence propagation work
 
+```
+@article{DBLP:journals/corr/LiXFS16,
+    author    = {Shuang Li and
+        Yao Xie and
+            Mehrdad Farajtabar and
+            Le Song},
+    title     = {Detecting weak changes in dynamic events over networks},
+    journal   = {CoRR},
+    volume    = {abs/1603.08981},
+    year      = {2016},
+    url       = {http://arxiv.org/abs/1603.08981},
+    timestamp = {Sat, 02 Apr 2016 11:49:48 +0200},
+    biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/LiXFS16},
+    bibsource = {dblp computer science bibliography, http://dblp.org}
+}
+```
+
 #### followers/
 Contains 50 recent re-tweeters randomly from the account's timeline. These can be thought of as pseudo-followers. Each line in the follower file represents one follower handle for that account.
 Each file corresponds to followers of one celebrity.
