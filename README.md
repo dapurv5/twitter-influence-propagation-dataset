@@ -30,15 +30,15 @@ a negative one denotes that the tweet was not a retweet of the celebrity node.
 The date range for each celebrity node and the important event is presented as follows
 
 ##### FLOTUS (Account of Michelle Obama)
-- Date Range: Jan 1st - Jan 30th, 2016
-- Important Real Life Event: Birthday on 17th Jan
+- Dates: Jan 1st - Jan 30th, 2016
+- Important Event: Birthday on 17th Jan
 
 ##### NASA (US Space Agency)
-- Date Range: Jan 22nd - Feb 2nd, 2016
-- Important Real Life Event: Challenger space shuttle was launched on 28th January, 1986.
+- Dates: Jan 22nd - Feb 2nd, 2016
+- Important Event: Challenger space shuttle was launched on 28th January, 1986.
 
 ##### jack (account of twitter CEO)
-- Date Range: Jan 20th - Jan 30th, 2016
+- Dates: Jan 20th - Jan 30th, 2016
 - Important Event: Twitter had a mass exodus of employees around Jan 25th
 
 ##### whoismrrobot (TV Series Mr Robot)
@@ -63,13 +63,18 @@ The date range for each celebrity node and the important event is presented as f
 
 ##### isro (Indian space research organization)
 - Dates: Jan 1st - Feb 9th, 2016
-- Important Dates: Jan 20th, successfully launched a satellite into orbit
+- Important Event: Jan 20th, successfully launched a satellite into orbit
 
 ##### sia (Singer)
 - Dates: Jan 10th - Feb 9th, 2016
-- Important Dates: Jan 29th, 2016, new album released
+- Important Event: Jan 29th, 2016, new album released
 
 ##### superbowl
 - Dates: Feb 1st - Feb 12th, 2016
-- Important Dates: Superbowl event on Feb 8th, 2016
+- Important Event: Superbowl event on Feb 8th, 2016
+
+
+##### egyptair
+- Dates: May 1st - May 28th, 2016
+- Important Event: May 19th, egyptair crash 
 
