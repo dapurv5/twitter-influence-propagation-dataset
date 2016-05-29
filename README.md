@@ -65,4 +65,11 @@ The date range for each celebrity node and the important event is presented as f
 - Dates: Jan 1st - Feb 9th, 2016
 - Important Dates: Jan 20th, successfully launched a satellite into orbit
 
+##### sia (Singer)
+- Dates: Jan 10th - Feb 9th, 2016
+- Important Dates: Jan 29th, 2016, new album released
+
+##### superbowl
+- Dates: Feb 1st - Feb 12th, 2016
+- Important Dates: Superbowl event on Feb 8th, 2016
 
