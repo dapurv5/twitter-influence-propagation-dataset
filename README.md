@@ -1,5 +1,5 @@
 # twitter-influence-propagation-dataset
-Dataset used in the twitter influence propagation work
+Dataset used in the twitter [influence propagation work](http://arxiv.org/pdf/1603.08981v1.pdf)
 
 ```
 @article{DBLP:journals/corr/LiXFS16,
