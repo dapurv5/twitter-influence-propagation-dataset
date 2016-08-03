@@ -3,10 +3,7 @@ Dataset used in the twitter [influence propagation work](http://arxiv.org/pdf/16
 
 ```
 @article{DBLP:journals/corr/LiXFS16,
-    author    = {Shuang Li and
-        Yao Xie and
-            Mehrdad Farajtabar and
-            Le Song},
+    author    = {Shuang Li and Yao Xie and Mehrdad Farajtabar and Le Song},
     title     = {Detecting weak changes in dynamic events over networks},
     journal   = {CoRR},
     volume    = {abs/1603.08981},
@@ -19,12 +16,10 @@ Dataset used in the twitter [influence propagation work](http://arxiv.org/pdf/16
 ```
 
 #### followers/
-Contains 50 recent re-tweeters randomly from the account's timeline. These can be thought of as pseudo-followers. Each line in the follower file represents one follower handle for that account.
-Each file corresponds to followers of one celebrity.
+Contains 50 recent re-tweeters randomly from the account's timeline. These can be thought of as pseudo-followers. Each line in the follower file represents one follower handle for that account. Each file corresponds to followers of one celebrity.
 
 #### tweets/
-The tweets file is a time sorted tsv file. Each line represents one tweet in the network. The first columns stores the time of the tweet. The second column stores the id of the node in the network. The celebrity node is assigned a node id of 1 in each network. The remaining nodes take values from [2-51]. The value in the third column denotes if the tweet was a retweet of the celebrity node. A value of +1 denotes that the tweet was retweet of the celebrity node. (i.e. the node with id=1) and
-a negative one denotes that the tweet was not a retweet of the celebrity node.
+The tweets file is a time sorted tsv file. Each line represents one tweet in the network. The first columns stores the time of the tweet. The second column stores the id of the node in the network. The celebrity node is assigned a node id of 1 in each network. The remaining nodes take values from [2-51]. The value in the third column denotes if the tweet was a retweet of the celebrity node. A value of 1 denotes that the tweet was retweet of the celebrity node. (i.e. the node with id=1) and a 0 denotes that the tweet was not a retweet of the celebrity node.
 
 ## Events
 The date range for each celebrity node and the important event is presented as follows
